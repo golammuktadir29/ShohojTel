@@ -19,7 +19,7 @@ namespace ShohojTel
         {
             string name = EmailTextBox.Text;
             string password = PasswordTextBox.Text;
-            if (name == "manager" || password == "1234")
+            if (name == "manager" && password == "1234")
             {
                 MessageBox.Show("Logging you in as a manager !!");
                 Manager managerx = new Manager();
