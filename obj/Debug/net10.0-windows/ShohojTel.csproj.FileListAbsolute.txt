@@ -1,0 +1,130 @@
+E:\ShohojTel\obj\Debug\net10.0-windows\ShohojTel.csproj.AssemblyReference.cache
+E:\ShohojTel\obj\Debug\net10.0-windows\ShohojTel.Properties.Resources.resources
+E:\ShohojTel\obj\Debug\net10.0-windows\ShohojTel.csproj.GenerateResource.cache
+E:\ShohojTel\obj\Debug\net10.0-windows\ShohojTel.GeneratedMSBuildEditorConfig.editorconfig
+E:\ShohojTel\obj\Debug\net10.0-windows\ShohojTel.AssemblyInfoInputs.cache
+E:\ShohojTel\obj\Debug\net10.0-windows\ShohojTel.AssemblyInfo.cs
+E:\ShohojTel\obj\Debug\net10.0-windows\ShohojTel.csproj.CoreCompileInputs.cache
+E:\ShohojTel\bin\Debug\net10.0-windows\ShohojTel.exe
+E:\ShohojTel\bin\Debug\net10.0-windows\ShohojTel.deps.json
+E:\ShohojTel\bin\Debug\net10.0-windows\ShohojTel.runtimeconfig.json
+E:\ShohojTel\bin\Debug\net10.0-windows\ShohojTel.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\ShohojTel.pdb
+E:\ShohojTel\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ShohojTel\obj\Debug\net10.0-windows\ShohojTel.csproj.Up2Date
+E:\ShohojTel\obj\Debug\net10.0-windows\ShohojTel.dll
+E:\ShohojTel\obj\Debug\net10.0-windows\refint\ShohojTel.dll
+E:\ShohojTel\obj\Debug\net10.0-windows\ShohojTel.pdb
+E:\ShohojTel\obj\Debug\net10.0-windows\ShohojTel.genruntimeconfig.cache
+E:\ShohojTel\obj\Debug\net10.0-windows\ref\ShohojTel.dll
+E:\ShohojTel\obj\Debug\net10.0-windows\ShohojTel.Register.resources
+E:\ShohojTel\obj\Debug\net10.0-windows\ShohojTel.Login.resources
+E:\ShohojTel\obj\Debug\net10.0-windows\ShohojTel.Customer.resources
+E:\ShohojTel\bin\Debug\net10.0-windows\Isopoh.Cryptography.Argon2.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\Isopoh.Cryptography.Blake2b.dll
+E:\ShohojTel\bin\Debug\net10.0-windows\Isopoh.Cryptography.SecureArray.dll
+E:\ShohojTel\obj\Debug\net10.0-windows\ShohojTel.DashBoardUserControl.resources
+E:\ShohojTel\obj\Debug\net10.0-windows\ShohojTel.ReportsUserControl.resources
+E:\ShohojTel\obj\Debug\net10.0-windows\ShohojTel.TicketCounterUserControl.resources
+E:\ShohojTel merge\bin\Debug\net10.0-windows\ShohojTel.exe
+E:\ShohojTel merge\bin\Debug\net10.0-windows\ShohojTel.deps.json
+E:\ShohojTel merge\bin\Debug\net10.0-windows\ShohojTel.runtimeconfig.json
+E:\ShohojTel merge\bin\Debug\net10.0-windows\ShohojTel.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\ShohojTel.pdb
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Isopoh.Cryptography.Argon2.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Isopoh.Cryptography.Blake2b.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Isopoh.Cryptography.SecureArray.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ShohojTel merge\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.csproj.AssemblyReference.cache
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.Customer.resources
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.DashBoardUserControl.resources
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.Login.resources
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.Manager.resources
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.ManagerLogin.resources
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.Properties.Resources.resources
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.Register.resources
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.ReportsUserControl.resources
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.TicketCounterUserControl.resources
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.csproj.GenerateResource.cache
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.GeneratedMSBuildEditorConfig.editorconfig
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.AssemblyInfoInputs.cache
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.AssemblyInfo.cs
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.csproj.CoreCompileInputs.cache
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.csproj.Up2Date
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.dll
+E:\ShohojTel merge\obj\Debug\net10.0-windows\refint\ShohojTel.dll
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.pdb
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.genruntimeconfig.cache
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ref\ShohojTel.dll
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.AdminLogin.resources
+E:\ShohojTel merge\obj\Debug\net10.0-windows\ShohojTel.AdminPanel.resources

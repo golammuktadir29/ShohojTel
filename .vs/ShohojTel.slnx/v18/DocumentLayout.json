@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ShohojTel merge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|e:\\shohojtel merge\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|solutionrelative:adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|e:\\shohojtel merge\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|solutionrelative:adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|e:\\shohojtel merge\\adminlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|solutionrelative:adminlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|e:\\shohojtel merge\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|solutionrelative:adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|E:\\ShohojTel merge\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|e:\\shohojtel merge\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|E:\\ShohojTel merge\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|solutionrelative:adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|e:\\shohojtel merge\\manager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|solutionrelative:manager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|E:\\ShohojTel merge\\dashboardusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|solutionrelative:dashboardusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|e:\\shohojtel merge\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|E:\\ShohojTel merge\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FFA1446-406B-F7F5-3FB4-07C5194E1E01}|ShohojTel.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 437,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminLogin.cs [Design]",
+              "DocumentMoniker": "E:\\ShohojTel merge\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "AdminLogin.cs",
+              "ToolTip": "E:\\ShohojTel merge\\AdminLogin.cs [Design]",
+              "RelativeToolTip": "AdminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T17:52:17.474Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "E:\\ShohojTel merge\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "AdminLogin.cs",
+              "ToolTip": "E:\\ShohojTel merge\\AdminLogin.cs",
+              "RelativeToolTip": "AdminLogin.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAC0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T10:31:45.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminLogin.Designer.cs",
+              "DocumentMoniker": "E:\\ShohojTel merge\\AdminLogin.Designer.cs",
+              "RelativeDocumentMoniker": "AdminLogin.Designer.cs",
+              "ToolTip": "E:\\ShohojTel merge\\AdminLogin.Designer.cs",
+              "RelativeToolTip": "AdminLogin.Designer.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAJkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T10:32:38.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminPanel.cs",
+              "DocumentMoniker": "E:\\ShohojTel merge\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "AdminPanel.cs",
+              "ToolTip": "E:\\ShohojTel merge\\AdminPanel.cs",
+              "RelativeToolTip": "AdminPanel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T10:45:52.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminPanel.cs [Design]",
+              "DocumentMoniker": "E:\\ShohojTel merge\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "AdminPanel.cs",
+              "ToolTip": "E:\\ShohojTel merge\\AdminPanel.cs [Design]",
+              "RelativeToolTip": "AdminPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T10:46:13.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\ShohojTel merge\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "E:\\ShohojTel merge\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:18:47.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\ShohojTel merge\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "E:\\ShohojTel merge\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAUwHwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T16:11:58.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Manager.Designer.cs",
+              "DocumentMoniker": "E:\\ShohojTel merge\\Manager.Designer.cs",
+              "RelativeDocumentMoniker": "Manager.Designer.cs",
+              "ToolTip": "E:\\ShohojTel merge\\Manager.Designer.cs",
+              "RelativeToolTip": "Manager.Designer.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAcwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T10:13:38.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashBoardUserControl.cs [Design]",
+              "DocumentMoniker": "E:\\ShohojTel merge\\DashBoardUserControl.cs",
+              "RelativeDocumentMoniker": "DashBoardUserControl.cs",
+              "ToolTip": "E:\\ShohojTel\\DashBoardUserControl.cs [Design]",
+              "RelativeToolTip": "..\\ShohojTel\\DashBoardUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:58:11.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "E:\\ShohojTel merge\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "E:\\ShohojTel merge\\Register.cs [Design]",
+              "RelativeToolTip": "Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T07:01:01.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "E:\\ShohojTel merge\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "E:\\ShohojTel merge\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAOBiwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:17:19.34Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 89,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
